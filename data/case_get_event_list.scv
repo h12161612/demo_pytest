@@ -1,0 +1,4 @@
+发布会id，预期结果
+1*{'status': 200, 'message': 'success','data': {'eid': 1, 'name': '小米手机发布会', 'limit': 2000, 'status': True, 'address': '北京','start_time': '2016-11-21T15:25:19'}}
+100*{'status': 10022, 'message': 'query result is empty'}
+*{'status': 10021, 'message': 'parameter error'}
